@@ -1,0 +1,19 @@
+body {
+	text-align: center; 
+  	font-family: Arial, sans-serif;
+}
+.search_button {
+ 	background-color: #50A060;
+  	border: none;
+  	padding: 10px;
+  	font-size: 14pt;
+  	color: white;
+}
+#search_box {
+ 	height:25px;
+    font-size:14pt; 
+}
+.title{
+ 	color: #50A060;
+  	font-size: 72pt;
+}
